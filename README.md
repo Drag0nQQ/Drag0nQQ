@@ -4,7 +4,7 @@ Bonjour ! Je suis Axel Oliveira, développeur Full Stack passionné par le déve
 
 Je suis toujours motivé par l'idée d'apprendre de nouvelles technologies et de relever des défis techniques. J'aime particulièrement travailler sur des projets qui combinent créativité et efficacité, afin de livrer des solutions qui apportent une vraie valeur ajoutée. 🔥
 
-
+## <img src="[https://img.icons8.com/?size=100&id=MSywwgB0nzMc&format=png&color=000000](https://img.icons8.com/?size=100&id=MSywwgB0nzMc&format=png&color=000000)" width="25"> <b>Compétences</b>
 
 <p align="left">
     
