@@ -1,16 +1,18 @@
-## Hi there 👋
+# Axel Oliveira AKA ✨ DragonQQ ✨
 
-<!--
-**Drag0nQQ/Drag0nQQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bonjour ! Je suis Axel Oliveira, développeur Full Stack passionné par le développement web et l'innovation. Avec une solide expérience en Slim et Java, j'ai également une bonne maîtrise des technologies front-end, notamment HTML, CSS, et JavaScript, ce qui me permet de créer des interfaces utilisateur attrayantes et intuitives.
 
-Here are some ideas to get you started:
+Côté backend, j'ai de l'expérience avec PHP et le framework léger Slim, qui me permet de développer des APIs performantes et des applications web robustes. Je suis actuellement en cours d'apprentissage de React, afin d'améliorer mes compétences en développement de composants front-end réactifs et de créer des interfaces utilisateur encore plus dynamiques et engageantes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je suis toujours motivé par l'idée d'apprendre de nouvelles technologies et de relever des défis techniques. J'aime particulièrement travailler sur des projets qui combinent créativité et efficacité, afin de livrer des solutions qui apportent une vraie valeur ajoutée. 🔥
+
+- **Langages** :
+
+    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
+- **Développement Web** :
+
+
+- **Stats GitHub** :
+    ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=AxelOliveira&show_icons=true&theme=radical)
