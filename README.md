@@ -2,8 +2,6 @@
 
 Bonjour ! Je suis Axel Oliveira, développeur Full Stack passionné par le développement web et l'innovation. Avec une solide expérience en Slim et Java, j'ai également une bonne maîtrise des technologies front-end, notamment HTML, CSS, et JavaScript, ce qui me permet de créer des interfaces utilisateur attrayantes et intuitives.
 
-Côté backend, j'ai de l'expérience avec PHP et le framework léger Slim, qui me permet de développer des APIs performantes et des applications web robustes. Je suis actuellement en cours d'apprentissage de React, afin d'améliorer mes compétences en développement de composants front-end réactifs et de créer des interfaces utilisateur encore plus dynamiques et engageantes.
-
 Je suis toujours motivé par l'idée d'apprendre de nouvelles technologies et de relever des défis techniques. J'aime particulièrement travailler sur des projets qui combinent créativité et efficacité, afin de livrer des solutions qui apportent une vraie valeur ajoutée. 🔥
 
 
