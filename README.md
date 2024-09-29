@@ -25,7 +25,3 @@ Je suis toujours motivé par l'idée d'apprendre de nouvelles technologies et de
   <br>
     
 </p>
-
-
-
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Drag0nQQ&show_icons=true&theme=radical)
